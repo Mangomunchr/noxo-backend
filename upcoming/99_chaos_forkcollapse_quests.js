@@ -1,0 +1,1 @@
+// Placeholder: collapse your chaos-aligned quests into a vault singularity

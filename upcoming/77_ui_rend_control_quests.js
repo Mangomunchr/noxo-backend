@@ -1,0 +1,1 @@
+// Placeholder: gain temporary control over HUD, overlays, or interface mutations

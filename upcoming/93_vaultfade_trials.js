@@ -1,0 +1,1 @@
+// Placeholder: allow your vault to decay gracefully and convert into mythic dust

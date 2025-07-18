@@ -1,0 +1,1 @@
+// Placeholder: quests that require specific hidden stat thresholds (e.g. burn score, summon streak)

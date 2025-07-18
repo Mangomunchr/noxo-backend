@@ -1,0 +1,1 @@
+// Placeholder: elite quests only for NodeMonks, with high difficulty and reward

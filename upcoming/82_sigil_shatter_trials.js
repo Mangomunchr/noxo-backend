@@ -1,0 +1,1 @@
+// Placeholder: destroy your own earned sigils for unique irreversible buffs

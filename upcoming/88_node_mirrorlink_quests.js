@@ -1,0 +1,1 @@
+// Placeholder: sync and reflect a bonded node (co-op or AI-aligned)

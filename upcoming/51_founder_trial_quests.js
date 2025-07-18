@@ -1,0 +1,1 @@
+// Placeholder: quests issued directly by Founder Echo, tied to system stability

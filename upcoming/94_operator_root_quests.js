@@ -1,0 +1,1 @@
+// Placeholder: unlock temporary operator root for overriding rituals or failures

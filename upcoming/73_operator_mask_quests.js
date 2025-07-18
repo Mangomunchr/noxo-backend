@@ -1,0 +1,1 @@
+// Placeholder: quests that grant temporary Operator control functions during events

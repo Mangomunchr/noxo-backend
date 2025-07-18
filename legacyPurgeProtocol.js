@@ -1,0 +1,1 @@
+removes outdated nodes

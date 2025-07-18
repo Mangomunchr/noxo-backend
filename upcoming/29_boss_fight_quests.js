@@ -1,0 +1,1 @@
+// Placeholder: trigger complex multi-user battles (quest = survive or complete ritual)

@@ -1,0 +1,1 @@
+// Placeholder: quests to abandon or reset role alignment through penance

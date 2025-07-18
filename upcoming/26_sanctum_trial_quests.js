@@ -1,0 +1,1 @@
+// Placeholder: quests unlocked after failure or dispute resolution (cleansing rituals)

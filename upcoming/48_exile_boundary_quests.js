@@ -1,0 +1,1 @@
+// Placeholder: interact with or breach system boundaries (Edge quests)

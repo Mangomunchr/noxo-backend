@@ -1,0 +1,1 @@
+// Placeholder: define typed quest categories (combat, support, chaos, vault, lore)

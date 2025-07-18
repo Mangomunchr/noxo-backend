@@ -1,0 +1,1 @@
+// Placeholder: quests unlocked after 'burnout' or defeat; offers resurrection tier

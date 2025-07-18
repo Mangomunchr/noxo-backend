@@ -1,0 +1,1 @@
+// Placeholder: hook into global events (summon milestones, chaos rituals)

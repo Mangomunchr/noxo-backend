@@ -1,0 +1,1 @@
+// Placeholder: quests that log user deeds permanently into the Noxo Chronicle

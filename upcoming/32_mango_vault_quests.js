@@ -1,0 +1,1 @@
+// Placeholder: quests that contribute to or extract from the Mango Vault (via rituals)

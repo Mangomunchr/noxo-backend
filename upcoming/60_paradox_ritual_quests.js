@@ -1,0 +1,1 @@
+// Placeholder: break internal logic chains via paradox crafting or split triggers

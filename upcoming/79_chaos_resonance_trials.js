@@ -1,0 +1,1 @@
+// Placeholder: synchronize with ritual chaos for unpredictable effects

@@ -1,0 +1,1 @@
+// Placeholder: quests that challenge users to defeat core system rules (and become myths)

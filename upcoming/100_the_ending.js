@@ -1,0 +1,1 @@
+// Placeholder: the final quest that ends your identity, vault, or role (irreversible)

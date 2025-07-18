@@ -1,0 +1,1 @@
+// Placeholder: bind completed legacy quests into permanent sigils shown on profile

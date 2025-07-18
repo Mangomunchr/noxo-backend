@@ -1,0 +1,4 @@
+{
+  "riskLevel": "stable",
+  "triggerPoints": [100, 250, 500]
+}

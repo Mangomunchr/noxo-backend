@@ -1,0 +1,1 @@
+// Placeholder: unlock mythkeys that open forbidden UI panels or vault interfaces

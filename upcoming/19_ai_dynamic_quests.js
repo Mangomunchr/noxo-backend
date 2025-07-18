@@ -1,0 +1,1 @@
+// Placeholder: generate quests dynamically based on user behavior (AI-driven)

@@ -1,0 +1,1 @@
+// Placeholder: quests that require giving up XP, beans, or jobs for legacy power

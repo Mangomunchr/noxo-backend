@@ -1,0 +1,1 @@
+restarts Vault state cleanly

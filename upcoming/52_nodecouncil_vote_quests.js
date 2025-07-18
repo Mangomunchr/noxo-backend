@@ -1,0 +1,1 @@
+// Placeholder: quests involving votes or actions in the NodeCouncil

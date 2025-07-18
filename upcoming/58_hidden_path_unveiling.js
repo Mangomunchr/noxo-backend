@@ -1,0 +1,1 @@
+// Placeholder: uncover hidden systems (e.g., Vaultling Layer, ChompCore)

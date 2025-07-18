@@ -1,0 +1,1 @@
+// Placeholder: replay or reverse-engineer a previous ritual outcome

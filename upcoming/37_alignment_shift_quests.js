@@ -1,0 +1,1 @@
+// Placeholder: quests that permanently change your role alignment or visual aura

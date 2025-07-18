@@ -1,0 +1,1 @@
+// Placeholder: inherit mythic traits from other Rendars or previous selves

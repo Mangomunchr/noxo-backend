@@ -1,0 +1,1 @@
+// Placeholder: quests triggered by Echo AI or legacy founder input
